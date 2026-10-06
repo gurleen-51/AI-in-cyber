@@ -1,8 +1,8 @@
 # AI in Cyber
 
-## AI-Driven Cyber Threat Awareness and Detection Prototype
+## AI-Driven Cyber Threat Awareness and Detection 
 
-An academic cybersecurity project that applies **Data Analytics, Machine Learning, and Deep Learning** techniques to network traffic data for identifying **Benign/Normal** and **Reconnaissance OS Scan/Suspicious** traffic.
+This cybersecurity project that applies **Data Analytics, Machine Learning, and Deep Learning** techniques to network traffic data for identifying **Benign/Normal** and **Reconnaissance OS Scan/Suspicious** traffic.
 
 The project is implemented in **Python using Jupyter Notebook** and follows a complete analytical workflow:
 
