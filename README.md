@@ -294,11 +294,6 @@ Possible future extensions include:
 
 ---
 
-## ⚠️ Disclaimer
-
-This project is developed for **academic and educational purposes**. The prototype should not be considered a production-ready cybersecurity or intrusion-detection system.
-
----
 
 ## 👩‍💻 Project
 
